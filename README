@@ -1,0 +1,22 @@
+This is a small program in OpenGL using the API glut.
+The project represent the indianapolis motor way.
+
+For a quick overview please go to : 
+<http://matth.daniel.free.fr/openGL/indianapolis>
+
+1 - Requirements 
+	- freeglut3-dev
+	- libjpeg8-dev
+	- libtiff4-dev
+
+The program was compiled on : 
+	- Mac osX 10.6
+	- Ubuntu 12.04 LTS
+
+2 - Documentation
+Not available at the moment!
+
+3 - Credits and License
+	This project was created by Matthieu DANIEL <matth.daniel@gmail.com> , <http://matth.daniel.free.fr>
+
+For any suggestions, please contact-me
